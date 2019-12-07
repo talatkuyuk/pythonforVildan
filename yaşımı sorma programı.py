@@ -1,2 +1,2 @@
-yas=input("yaşınız kaç?")
-print("Aaaa",yas,"yaşındasın")
+yas=input("yaşınız kaç?: ")
+print("Aaaa", yas,"yaşındasın.")
