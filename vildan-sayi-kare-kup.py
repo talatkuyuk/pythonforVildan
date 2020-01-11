@@ -1,11 +1,11 @@
-print("bu program kullanıcının girdiği sayıya kadar rakamları yazar ve yanlarına kare ve küplerini yazar")
-sayi=int(input("bir sayı giriniz: "))
+print("\nBu program kullanıcının girdiği sayıya kadar rakamları yazar ve yanlarına kare ve küplerini yazar")
+sayi=int(input("\nBir sayı giriniz: "))
 
 
-print("sayı","\t","kare","\t","küp")
+print("\nsayı","\t","kare","\t","küp")
 print("----","----","----",sep="\t")
 i=1
-while (i<=sayi):
+while (i <= sayi):
 
     #sayıları formatsız yazar
     #print(i,"\t",i**2,"\t",i**3)
