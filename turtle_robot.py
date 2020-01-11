@@ -66,5 +66,5 @@ dortgen(25,25,"green")
 t.goto(58,130)
 dortgen(10,15,t.bgcolor())
 
-
 t.hideturtle()
+t.done()
